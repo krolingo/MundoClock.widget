@@ -1,5 +1,5 @@
 # MundoClock.widget
-<img src="MundoClock.widget/support/images/logo.jpg" width=600px>
+<img src="MundoClock.widget/support/images/logo.jpg" width=800px>
 
 
 MundoClock is an Übersicht desktop widget that serves as both a world clock and a visual showcase of Earth, utilizing high-cadence imagery from the "High Cadence Imaging" gallery on the [EPIC website](https://epic.gsfc.nasa.gov/galleries/2022/high_cadence).
